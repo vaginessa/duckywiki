@@ -1,0 +1,1 @@
+![bad_ducky_smartphone](http://res.cloudinary.com/dpkdfsocp/image/upload/c_scale,w_785/v1508238222/bad_ducky_github/IMG_20171017_120532_AO_HDR.jpg)
