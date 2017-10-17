@@ -7,7 +7,7 @@ For writing scripts you can use any text editor that supports Unix LF line endin
 
 Save it as demo1.txt on the SD card (device supports 8 characters long file name + 3 characters for extensions), insert the card into the device and plug it to your computer. Open Arduino IDE, check if you have selected proper port and open Serial Monitor. You should get something like this:
 
-
+![](http://res.cloudinary.com/dpkdfsocp/image/upload/c_scale,w_1013/v1508227810/-dev-ttyACM0_Arduino_Leonardo__063_gr2mrv.png)
 
 Now you can choose desired delivery mode. There are three work modes:
 - management - it does not do anything special, it just allows you mode/payload switching (LED is on)
