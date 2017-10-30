@@ -14,6 +14,6 @@ Now you can choose desired delivery mode. There are three work modes:
 - continuous delivery mode - it executes selected payload every time you plug your device
 - auto-disarm mode (one-time delivery) - it executes selected payload only one time, and than the mode will be changed to management
 
-Input "a" and press enter for selecting auto-disarm mode. Now input "demo1.txt", press enter and you are ready for the first script execution. Unplug your device, open text editor and plug it back in. You should be getting "Hello World!" text written in your text editor. If you unplug it and than plug it back again, you should not get anything this time. After executing your script, device switched it's mode to management. 
+Input "a" and press enter for selecting auto-disarm mode. Now input "demo1.txt", press enter and you are ready for the first script execution. Unplug your device, open text editor and plug it back in. You should be getting "Hello World!" text written in your text editor. If you unplug it and then plug it back again, you should not get anything this time. After executing your script, device switched it's mode to management. 
 
 If you have an error in your script or command is not recognized (even a blank line is considered to be an error), affected line will be skipped and rest of the script will be executed (the LED will start blinking at the end of execution).  
