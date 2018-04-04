@@ -35,7 +35,7 @@ Turkish layout. Write down these values as:
 * KEY_RIGHT_SHIFT 0x85
 * KEY_RIGHT_ALT 0x86
 * KEY_RIGHT_GUI 0x87
-* and 0x00 for none
+* and for none 0x00
 
 Second character **#** has value 0x23 in English layout but there isn't 
 such character in targeted layout. Now you have to find out how to 
