@@ -1,6 +1,4 @@
-I've had couple questions on how to create keymap files...  Well, it's 
-pretty tedious, but i didn't find any better solution on how to 
-"translating" payload on the fly to any other keyboard layout.
+I've had couple questions on how to create keymap files...  Well, it's pretty tedious, but i didn't find any better solution for "translating" payload on the fly to any other keyboard layout.
 
 Every keyboard character is presented with value between 0 and 255 (1 
 byte) while in English keyboard layout printable characters have values between 33 and 126. For more info check [Arduino documentation](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/). I created a little [helper sketch](https://github.com/mharjac/bad_ducky/blob/master/keydumper/keydumper.ino) which will print these characters together with their corresponding values (hex). 
